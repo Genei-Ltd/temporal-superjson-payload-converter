@@ -24,8 +24,8 @@ import {
   UndefinedPayloadConverter,
   ValueError,
 } from '@temporalio/common'
-import { decode, encode } from '@temporalio/common/lib/encoding.js'
 import superjson, { type SuperJSONResult } from 'superjson'
+import { decode, encode } from './encoding'
 
 /**
  * Metadata key used to store SuperJSON type information in payloads.

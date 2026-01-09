@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/@coloop-ai/temporal-superjson-payload-converter.svg)](https://www.npmjs.com/package/@coloop-ai/temporal-superjson-payload-converter)
 [![npm downloads](https://img.shields.io/npm/dm/@coloop-ai/temporal-superjson-payload-converter.svg)](https://www.npmjs.com/package/@coloop-ai/temporal-superjson-payload-converter)
 [![License: MIT](https://img.shields.io/npm/l/@coloop-ai/temporal-superjson-payload-converter.svg)](https://github.com/Genei-Ltd/temporal-superjson-payload-converter/blob/main/LICENSE)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue?logo=typescript)](https://www.typescriptlang.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue?logo=typescript)](https://www.typescriptlang.org/)
 
 A [SuperJSON](https://github.com/blitz-js/superjson)-based payload converter for [Temporal](https://temporal.io) workflows. Properly serialize and deserialize complex JavaScript types that standard JSON cannot handle.
 

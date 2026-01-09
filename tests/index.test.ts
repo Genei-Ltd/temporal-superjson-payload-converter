@@ -2,8 +2,8 @@ import {
   METADATA_ENCODING_KEY,
   defaultPayloadConverter,
 } from '@temporalio/common'
-import { decode, encode } from '@temporalio/common/lib/encoding.js'
 import { describe, expect, it } from 'vitest'
+import { decode, encode } from '../src/encoding'
 import {
   SUPERJSON_META_KEY,
   SuperJsonPayloadConverter,
