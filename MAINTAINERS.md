@@ -2,8 +2,8 @@
 
 ## Development workflow
 
-1. Make your changes to `src/index.ts`
-2. Add or update tests in `tests/index.test.ts`
+1. Make your changes in `src/`
+2. Add or update tests in `tests/`
 3. Verify everything works:
    ```bash
    bun run tc      # Type check
